@@ -1,0 +1,24 @@
+@media (max-width: 767px) {
+	.section .about__text {
+    outline: none;
+  }
+}
+
+@media (min-width: 767px) {
+  .section .about__text {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.about__text {
+  z-index: 10;
+  padding: 20px;
+  outline: 1px solid #9D9C9C;
+  background-color: white;
+}
+
+.about__image {
+  min-height: 100%
+}
