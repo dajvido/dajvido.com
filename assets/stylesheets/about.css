@@ -14,9 +14,34 @@
 
 .about__text {
   z-index: 10;
+  margin-top: 40px;
   padding: 20px;
   outline: 1px solid #9D9C9C;
   background-color: white;
+}
+
+.about__social {
+  margin-top: 20px;
+  font-size: 2em;
+}
+
+.about__social--link {
+  padding: 0 5px 0 5px;
+  color: black;
+}
+
+.about__social--link:visited {
+  color: black;
+}
+
+.about__social--link:hover {
+  color: rgb(70, 70, 70);
+  cursor: pointer;
+  text-decoration: none;
+}
+.about__social--link:active {
+  color: rgb(70, 70, 70);
+  text-decoration: none;
 }
 
 .about__image {
