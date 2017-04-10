@@ -30,8 +30,9 @@
   color: black;
 }
 
-.about__social--link:visited {
-  color: black;
+.about__social--link:active, .about__social--link:focus {
+  color: rgb(70, 70, 70);
+  text-decoration: none;
 }
 
 .about__social--link:hover {
@@ -39,8 +40,9 @@
   cursor: pointer;
   text-decoration: none;
 }
-.about__social--link:active {
-  color: rgb(70, 70, 70);
+
+.about__social--link:visited {
+  color: black;
   text-decoration: none;
 }
 
