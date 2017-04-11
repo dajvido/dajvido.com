@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/dajvido
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dajvido.com
+  * I am dajvido (https://keybase.io/dajvido) on keybase.
+  * I have a public key ASDP5GSjC3BfcDWr22qwcEl2_eLq1t0JKJiG66nS7vggIwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017750b18afe0e2808d84fffa0dec30f997b1fa9229fcb4b8f091ae89db4143aa30a",
+            "host": "keybase.io",
+            "kid": "0120cfe464a30b705f7035abdb6ab0704976fde2ead6dd09289886eba9d2eef820230a",
+            "uid": "b03929a20f162525a887c62c780e2719",
+            "username": "dajvido"
+        },
+        "service": {
+            "hostname": "dajvido.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1491948148,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1491948135,
+        "hash": "9934a664ec5c07d2f6002ca07eb4c290152e1ff3d679d6132409ee6ebfdc65cd768f0150f4f35ea7c0553d6816e3dda886abe66ff21f5cc9173969e0d50254c3",
+        "seqno": 1013701
+    },
+    "prev": "d3eceece3a087086f98b4bef5e6cf51c0a98bfab4d39b6c8de737b6c30d3392b",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgz+RkowtwX3A1q9tqsHBJdv3i6tbdCSiYhuup0u74ICMKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNzc1MGIxOGFmZTBlMjgwOGQ4NGZmZmEwZGVjMzBmOTk3YjFmYTkyMjlmY2I0YjhmMDkxYWU4OWRiNDE0M2FhMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwY2ZlNDY0YTMwYjcwNWY3MDM1YWJkYjZhYjA3MDQ5NzZmZGUyZWFkNmRkMDkyODk4ODZlYmE5ZDJlZWY4MjAyMzBhIiwidWlkIjoiYjAzOTI5YTIwZjE2MjUyNWE4ODdjNjJjNzgwZTI3MTkiLCJ1c2VybmFtZSI6ImRhanZpZG8ifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRhanZpZG8uY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjAifSwiY3RpbWUiOjE0OTE5NDgxNDgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5MTk0ODEzNSwiaGFzaCI6Ijk5MzRhNjY0ZWM1YzA3ZDJmNjAwMmNhMDdlYjRjMjkwMTUyZTFmZjNkNjc5ZDYxMzI0MDllZTZlYmZkYzY1Y2Q3NjhmMDE1MGY0ZjM1ZWE3YzA1NTNkNjgxNmUzZGRhODg2YWJlNjZmZjIxZjVjYzkxNzM5NjllMGQ1MDI1NGMzIiwic2Vxbm8iOjEwMTM3MDF9LCJwcmV2IjoiZDNlY2VlY2UzYTA4NzA4NmY5OGI0YmVmNWU2Y2Y1MWMwYTk4YmZhYjRkMzliNmM4ZGU3MzdiNmMzMGQzMzkyYiIsInNlcW5vIjoxMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECweWWzd5vLVF8UY/TeSyHUpV6I2ikmastkGIUGHoV4XWH8UKKjKfLA2wrlExGnHNQiWptZ7tU7uu+M5OESq9kOqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgdqAR03sv1uCdbLaLWNK83Ka4z6UBg2kdR9H7lxfpeWujdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dajvido
+
+==================================================================
