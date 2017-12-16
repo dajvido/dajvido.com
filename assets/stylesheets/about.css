@@ -7,7 +7,7 @@
 @media (min-width: 768px) {
   .section .about__text, .section .about__social {
     width: 70%;
-    max-width: 465px;
+    max-width: 430px;
     margin-left: 40%;
   }
 }
@@ -15,6 +15,11 @@
 .about__text {
   z-index: 1;
   margin-top: 40px;
+  text-align: justify;
+}
+
+.about__text h1 {
+  text-align: center;
 }
 
 .about__social {
